@@ -10,4 +10,13 @@ As the video footage/movie plays, these colored squares/dots gather on a clean d
 
 To prove that this method works well, we tested it on a wide range of popular Youtube video footages/movies from different genres, like comedies and horror films. The results show that this method can quickly and effectively sort movies based on their happiness and sadness levels. So, this system offers a great solution for controlling content on digital platforms, making sure users have a safer and more enjoyable experience.
 
+# Some sample outputs:
+
 ![Screenshot from 2023-05-10 10-43-47](https://github.com/mnguyenAUT/Youtube_Emotion_Analyser/assets/99455946/4799e96e-bf06-4914-ac5b-ddf5fcc0ee5b)
+
+![Screenshot from 2023-05-10 10-52-56](https://github.com/mnguyenAUT/Youtube_Emotion_Analyser/assets/99455946/b3456ec9-2b19-49a3-b1ab-1be9eb027443)
+
+![Screenshot from 2023-05-10 10-58-00](https://github.com/mnguyenAUT/Youtube_Emotion_Analyser/assets/99455946/df881d26-568a-4b8d-8455-faf722dcf611)
+
+
+![Screenshot from 2023-05-10 10-55-35](https://github.com/mnguyenAUT/Youtube_Emotion_Analyser/assets/99455946/cba4afa1-3845-44dd-9e5e-a3a10c15c178)
