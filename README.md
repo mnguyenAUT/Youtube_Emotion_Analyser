@@ -1,2 +1,11 @@
 # Youtube_Emotion_Analyser
 Emotion-Centric AI: Ensuring Suitable Content for Youthful Eyes
+
+# Introduction:
+This application provides a new way to study and analyse online videos/movies by using artificial intelligence (AI) to understand facial expressions and the emotions they show. The main goal is to quickly check the emotional content of videos on sites like YouTube and TikTok, making sure they are appropriate, especially for young viewers.
+
+The system has two main parts: recognizing faces in movie scenes and sorting facial expressions into different emotions like happiness, sadness, anger, calm, and more. We use a special way of showing emotions with colored squares/dots: red for happiness, blue for anger, and green for sadness, and so on. The size of the squares/dots matches how sure we are about the emotion.
+
+As the video footage/movie plays, these colored squares/dots gather on a clean digital board, helping us learn important information from the mix of colors about the movie's main emotional theme. This method also lets us look at specific parts of the movie to see the emotional changes, like finding mostly happy content in the first 30 minutes followed by mostly sad content later on. By knowing where negative emotions appear in the video, we can quickly handle the situation or remove these sad parts to reduce any harmful effects on viewers.
+
+To prove that this method works well, we tested it on a wide range of popular Youtube video footages/movies from different genres, like comedies and horror films. The results show that this method can quickly and effectively sort movies based on their happiness and sadness levels. So, this system offers a great solution for controlling content on digital platforms, making sure users have a safer and more enjoyable experience.
